@@ -3,7 +3,7 @@ package cn.lblbc.news.controller;
 import cn.lblbc.news.bean.NewsInfo;
 import cn.lblbc.news.bean.Category;
 import cn.lblbc.news.service.NewsService;
-import cn.lblbc.news.service.CategoryService;
+import cn.lblbc.news.service.NewsCategoryService;
 import cn.lblbc.base.Resp;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -23,12 +23,12 @@ public class NewsRestController {
     @Autowired
     private NewsService newsService;
     @Autowired
-    private CategoryService categoryService;
+    private NewsCategoryService newsCategoryService;
 
     @GetMapping("categories")
     public Resp<List<Category>> queryCategory() {
         Resp<List<Category>> resp = new Resp<>();
-        resp.setData(categoryService.query());
+        resp.setData(newsCategoryService.query());
         return resp;
     }
 

@@ -13,7 +13,7 @@ import java.util.List;
  * 公众号：蓝不蓝编程
  */
 @Repository
-public interface CategoryMapper {
+public interface NewsCategoryMapper {
 
     @Select(value = "SELECT * FROM news_category")
     List<Category> query();

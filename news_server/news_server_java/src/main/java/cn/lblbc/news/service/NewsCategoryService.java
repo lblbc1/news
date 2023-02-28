@@ -1,7 +1,7 @@
 package cn.lblbc.news.service;
 
 import cn.lblbc.news.bean.Category;
-import cn.lblbc.news.mapper.CategoryMapper;
+import cn.lblbc.news.mapper.NewsCategoryMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -14,12 +14,12 @@ import java.util.List;
  * 公众号：蓝不蓝编程
  */
 @Service
-public class CategoryService {
+public class NewsCategoryService {
     @Autowired
-    private CategoryMapper categoryMapper;
+    private NewsCategoryMapper newsCategoryMapper;
 
     public List<Category> query() {
-        return categoryMapper.query();
+        return newsCategoryMapper.query();
     }
 
 }
