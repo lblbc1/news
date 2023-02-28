@@ -16,6 +16,5 @@ public class NewsInfo {
     private String author;
     private String link;
     private int commentCount;
-    private String downloadCount;
     private long publishTime;
 }
