@@ -16,8 +16,7 @@ class NewsInfo(
     var imgUrl: String = "",
     var author: String = "",
     var link: String = "",
-    var commentCount: Int = 0,
-    var publishTime: Long = 0
+    var commentCount: Int = 0
 )
 
 class CategoryInfo(val id: String = "", val name: String = "")
