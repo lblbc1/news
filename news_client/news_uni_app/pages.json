@@ -1,0 +1,23 @@
+{
+	"pages": [
+		{
+			"path": "pages/news-list",
+			"style": {
+				"navigationBarTitleText": "X新闻-蓝不蓝编程"
+			}
+		},
+		{
+			"path": "pages/search",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "蓝不蓝编程",
+		"navigationBarBackgroundColor": "#418DF9",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
