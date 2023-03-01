@@ -23,7 +23,7 @@ CREATE TABLE `news_news` (
   `img_url` varchar(200) ,
   `author` varchar(500),
   `link` varchar(500),
-  `comment_count` int
+  `comment_count` int,
   PRIMARY KEY (`id`)
 );
 
