@@ -2,7 +2,7 @@ import { createRouter, createWebHashHistory, RouteRecordRaw } from "vue-router";
 const routes: Array<RouteRecordRaw> = [
 	{
 		path: "/",
-		name: "AppList",
+		name: "NewsList",
 		meta: {
 			title: "首页",
 			keepAlive: true
