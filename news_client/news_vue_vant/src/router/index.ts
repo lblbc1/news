@@ -7,7 +7,7 @@ const routes: Array<RouteRecordRaw> = [
 			title: "首页",
 			keepAlive: true
 		},
-		component: () => import("../views/AppList.vue"),
+		component: () => import("../views/NewsList.vue"),
 	},{
 		path: "/news/search",
 		name: "search",
