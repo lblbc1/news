@@ -1,14 +1,13 @@
 # Introduction
-News appfor programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
+News app for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
 
 
 # Preview
 ![](https://img-blog.csdnimg.cn/10353b1721ea47d1b7c6740b84de9351.png)
 # Server Features
- 1. Query app categories
- 2. Query apps
- 3. Query app detail
- 4. Search app
+ 1. Query news categories
+ 2. Query news
+ 3. Search news
 
 # Open Source
 [https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)
