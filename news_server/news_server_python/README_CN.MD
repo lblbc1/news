@@ -7,26 +7,23 @@
 《[十余种编程语言写博客系统](https://cxyxy.blog.csdn.net/article/details/128755326)》
 《[十余种编程语言写云笔记](https://cxyxy.blog.csdn.net/article/details/128760968)》
 《[N种编程语言做个记事本](https://cxyxy.blog.csdn.net/article/details/128761825)》
+《[N种编程语言做个应用市场(appstore)](https://cxyxy.blog.csdn.net/article/details/129223072)》
 # 目标
-为编程初学者打造入门学习项目，使用各种主流编程语言来实现。让想学编程的，一个都不落下。
+为编程初学者打造入门学习项目，使用各种主流编程语言来实现。
 ![](https://img-blog.csdnimg.cn/faea1470ad3b4e8eba3b093d261d637d.png)
-上述基本涵盖了当前编程开发所有主流语言。
-
 左侧为前端版本：安卓、iOS、鸿蒙、Flutter、Vue、uni-app。
 右侧为服务器端版本：Java、Python、Go、PHP、NodeJS
 
-# 前端效果图
+# Vue版效果图
 ![](https://img-blog.csdnimg.cn/10353b1721ea47d1b7c6740b84de9351.png)
-# 支持特性
-1. 查询应用分类
-2. 查询分类下应用
-3. 查询应用详情
-4. 搜索应用
-5. 支持mysql数据库
+
+# 在线体验
+[http://lblbc.cn/redirect/news](http://lblbc.cn/redirect/news)
 # 开发工具
-[下载PyCharm](https://cxyxy.blog.csdn.net/article/details/128722649)
+[下载Visual Studio Code](https://cxyxy.blog.csdn.net/article/details/128722652)
+
 # 工程截图
-![](https://img-blog.csdnimg.cn/268ed75960a740bcbbcaed45dca07349.png)
+![](https://img-blog.csdnimg.cn/5837abba47dc4c0bbf1776ab75f72973.png)
 
 # 开源地址
 [https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)

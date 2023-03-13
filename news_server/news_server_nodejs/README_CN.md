@@ -7,6 +7,7 @@
 《[十余种编程语言写博客系统](https://cxyxy.blog.csdn.net/article/details/128755326)》
 《[十余种编程语言写云笔记](https://cxyxy.blog.csdn.net/article/details/128760968)》
 《[N种编程语言做个记事本](https://cxyxy.blog.csdn.net/article/details/128761825)》
+《[N种编程语言做个应用市场(appstore)](https://cxyxy.blog.csdn.net/article/details/129223072)》
 # 目标
 为编程初学者打造入门学习项目，使用各种主流编程语言来实现。让想学编程的，一个都不落下。
 ![](https://img-blog.csdnimg.cn/faea1470ad3b4e8eba3b093d261d637d.png)
@@ -16,23 +17,22 @@
 右侧为服务器端版本：Java、Python、Go、PHP、NodeJS
 
 # 前端效果图
-![](https://img-blog.csdnimg.cn/10353b1721ea47d1b7c6740b84de9351.png)
+![](https://img-blog.csdnimg.cn/b7e7e80f144e4e079c3fd4496d27b132.jpeg)
+
 # 支持特性
-1. 查询应用分类
-2. 查询分类下应用
-3. 查询应用详情
-4. 搜索应用
-5. 支持mysql数据库
+1. 查询新闻分类
+2. 查询分类下新闻
+3. 搜索新闻
+4. 支持mysql数据库
 # 开发工具
 [下载Visual Studio Code](https://cxyxy.blog.csdn.net/article/details/128722652)
 # 工程截图
-![](https://img-blog.csdnimg.cn/1c5f0cec4d8d4cdfa4a245f51c2f52a7.png)
-
+![](https://img-blog.csdnimg.cn/8a49786c98a040229b2a469674beafa7.png)
 # 开源地址
 [https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)
 
 # 关于
-厦门大学计算机专业|华为八年高级工程师     
+厦门大学计算机专业|前华为工程师    
 专注《零基础学编程系列》  http://lblbc.cn/blog  
 包含：Java | 安卓 | 前端 | Flutter | iOS | 小程序 | 鸿蒙  
 公众号：蓝不蓝编程  
