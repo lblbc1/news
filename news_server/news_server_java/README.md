@@ -11,7 +11,7 @@ App store for programming starters, including Android,iOS,Huawei HarmonyOS,Flutt
  4. Search app
 
 # Open Source
-[https://gitee.com/lblbc/appstore](https://gitee.com/lblbc/appstore)
+[https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)
 
 
 # About Me

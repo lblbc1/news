@@ -29,7 +29,7 @@
 ![](https://img-blog.csdnimg.cn/4de5d15e73ef47398f23a6155e963ada.png)
 
 # 开源地址
-[https://gitee.com/lblbc/appstore](https://gitee.com/lblbc/appstore)
+[https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)
 
 # 关于
 厦门大学计算机专业|华为八年高级工程师     

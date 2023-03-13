@@ -25,7 +25,7 @@
 
 
 # 开源地址
-[https://gitee.com/lblbc/appstore](https://gitee.com/lblbc/appstore)
+[https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)
 ![](https://img-blog.csdnimg.cn/2583a18b2a324be4903d390542bbcfe9.png)
 
 

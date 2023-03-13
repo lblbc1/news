@@ -6,7 +6,7 @@ App store for programming starters, including Android,iOS,Huawei HarmonyOS,Flutt
 ![](https://img-blog.csdnimg.cn/40d7c8b649764f2cbbcbd21cc5372779.png)
 
 # Open Source
-[https://gitee.com/lblbc/appstore](https://gitee.com/lblbc/appstore)
+[https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)
 
 
 # About Me
