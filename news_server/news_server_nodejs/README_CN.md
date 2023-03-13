@@ -16,7 +16,7 @@
 右侧为服务器端版本：Java、Python、Go、PHP、NodeJS
 
 # 前端效果图
-![](https://img-blog.csdnimg.cn/c3eaa47d8a5e4ba6bef57e71d740d3da.png)
+![](https://img-blog.csdnimg.cn/10353b1721ea47d1b7c6740b84de9351.png)
 # 支持特性
 1. 查询应用分类
 2. 查询分类下应用

@@ -1,5 +1,5 @@
 # Introduction
-App store for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
+News appfor programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
 
 
 # Preview
@@ -15,7 +15,7 @@ Ever worked for Huawei as software developer
 focus on programming learning. http://lblbc.cn/blog  
 Including：Android(Java、Kotlin)、iOS(SwiftUI)、Flutter(Dart)、Window Desktop(C#)、Front End(WeChat mini-program、uni-app、vue)、Back End（Java、Kotlin、NodeJS、Python、PHP、Go、C、C++）、HarmonyOS(Huawei)  
 Follow me on China wechat：蓝不蓝编程  
-App store for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
+News appfor programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
 
 # Quick Start
 ## 1. Compile

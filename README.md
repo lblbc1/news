@@ -1,9 +1,9 @@
 # Introduction
-App store for programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
+News appfor programming starters, including Android,iOS,Huawei HarmonyOS,Flutter,Vue,uni-app,Java,Python,Go,PHP,NodeJS
 
 
 # Preview
-![](https://img-blog.csdnimg.cn/c3eaa47d8a5e4ba6bef57e71d740d3da.png)
+![](https://img-blog.csdnimg.cn/10353b1721ea47d1b7c6740b84de9351.png)
 # Server Features
  1. Query app categories
  2. Query apps
