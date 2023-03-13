@@ -7,7 +7,7 @@
 《[十余种编程语言写博客系统](https://cxyxy.blog.csdn.net/article/details/128755326)》
 《[十余种编程语言写云笔记](https://cxyxy.blog.csdn.net/article/details/128760968)》
 《[N种编程语言做个记事本](https://cxyxy.blog.csdn.net/article/details/128761825)》
-
+《[N种编程语言做个应用市场(appstore)](https://cxyxy.blog.csdn.net/article/details/129223072)》
 # 目标
 为编程初学者打造入门学习项目，使用各种主流编程语言来实现。
 ![](https://img-blog.csdnimg.cn/faea1470ad3b4e8eba3b093d261d637d.png)
@@ -15,19 +15,14 @@
 右侧为服务器端版本：Java、Python、Go、PHP、NodeJS
 
 # uni-app版效果图
-![](https://img-blog.csdnimg.cn/40d7c8b649764f2cbbcbd21cc5372779.png)
-
+![](https://img-blog.csdnimg.cn/a560fda8f3284e0e82cc05bca2dc537a.png)
 # 开发工具
 [下载HBuilderX](https://cxyxy.blog.csdn.net/article/details/128722661)
 
 # 工程截图
-![](https://img-blog.csdnimg.cn/6434bfd7e1a64af4a8062fbd495ec156.png)
-
-
+![](https://img-blog.csdnimg.cn/b455b55980ec481b89275b901627302d.png)
 # 开源地址
 [https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)
-![](https://img-blog.csdnimg.cn/2583a18b2a324be4903d390542bbcfe9.png)
-
 
 # 关于
 厦门大学计算机专业|华为八年高级工程师     

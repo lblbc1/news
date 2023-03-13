@@ -22,11 +22,11 @@ extension LblAPI: TargetType {
         //Moya会把path中带的问号转为%3F，所以只能将带有问号路径的URL放到baseURL中来规避该问题
         switch self {
             case .queryByCategory(let categoryId):
-                return URL(string: "http://lblbc.cn/news/news?categoryId=\(categoryId)")!
+                return URL(string: "https://lblbc.cn/news/news?categoryId=\(categoryId)")!
             case .search(let keyword):
-                return URL(string: "http://lblbc.cn/news/newsBySearch?keyword=\(keyword)")!
+                return URL(string: "https://lblbc.cn/news/newsBySearch?keyword=\(keyword)")!
             default:
-                return URL(string: "http://lblbc.cn/")!
+                return URL(string: "https://lblbc.cn/")!
         }
     }
     

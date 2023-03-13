@@ -7,7 +7,7 @@
 《[十余种编程语言写博客系统](https://cxyxy.blog.csdn.net/article/details/128755326)》
 《[十余种编程语言写云笔记](https://cxyxy.blog.csdn.net/article/details/128760968)》
 《[N种编程语言做个记事本](https://cxyxy.blog.csdn.net/article/details/128761825)》
-
+《[N种编程语言做个应用市场(appstore)](https://cxyxy.blog.csdn.net/article/details/129223072)》
 # 目标
 为编程初学者打造入门学习项目，使用各种主流编程语言来实现。
 ![](https://img-blog.csdnimg.cn/faea1470ad3b4e8eba3b093d261d637d.png)
@@ -15,15 +15,16 @@
 右侧为服务器端版本：Java、Python、Go、PHP、NodeJS
 
 # 安卓版效果图
-![](https://img-blog.csdnimg.cn/06688e44868f4c96b6383abcb98b8d83.png)
+![](https://img-blog.csdnimg.cn/b1572b66548d406a826d505b2ff59976.png)
+
 # 开发工具
 [下载Android Studio](https://cxyxy.blog.csdn.net/article/details/107098873)
 
 # 工程截图
-![](https://img-blog.csdnimg.cn/48a0c8030c2f47e7921f7d3dac51cc34.png)
+![](https://img-blog.csdnimg.cn/212021fbf51f4f84aa47eb9bd71dbc91.png)
+
 # 开源地址
 [https://gitee.com/lblbc/news](https://gitee.com/lblbc/news)
-![](https://img-blog.csdnimg.cn/2583a18b2a324be4903d390542bbcfe9.png)
 
 
 # 关于
